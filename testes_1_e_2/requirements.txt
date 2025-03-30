@@ -1,0 +1,12 @@
+selenium==4.*
+webdriver-manager==4.*
+pdfplumber==0.*
+pandas==2.*
+python-dateutil==2.*
+pytz==2023.*
+numpy==1.*
+openpyxl==3.*
+zipfile38==1.*
+pickle5==0.*
+tzlocal==5.*
+six==1.*
